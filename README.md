@@ -1,2 +1,1 @@
-# Juego-del-barco-v1
-Holis
+# C20-Student-boilerplate-code
